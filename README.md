@@ -36,5 +36,6 @@ This repository serves as my collection of programming activities and helps me p
 
 👩‍💻 Author
 
-**Angel Faith P. Tuante**
-Bachelor of Science in Information Technology (BSIT)
+Angel Faith P. Tuante
+
+BSIT
